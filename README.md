@@ -25,7 +25,7 @@ npm run dev
 
 Import the GitHub repository into Vercel and use `npm run build` as the build command. The Vercel Nitro preset is configured in `vite.config.ts`; leave the output directory at its default.
 
-No Supabase environment variables are required.
+No additional environment variables are required.
 
 ## Built with
 
