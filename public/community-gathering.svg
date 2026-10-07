@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Community gathering</title>
+  <desc id="desc">A festive pink floral rangoli with white lotus petals and warm diya lights.</desc>
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#f5efe6"/>
+      <stop offset="100%" stop-color="#dcd2c6"/>
+    </radialGradient>
+    <linearGradient id="petalPink" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff5fcf"/>
+      <stop offset="40%" stop-color="#d83eff"/>
+      <stop offset="100%" stop-color="#a61f8d"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffe9a5"/>
+      <stop offset="100%" stop-color="#d59d19"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#b77a7d" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgGlow)"/>
+
+  <g opacity="0.9">
+    <circle cx="180" cy="180" r="62" fill="#f7b933"/>
+    <circle cx="1018" cy="180" r="62" fill="#f7b933"/>
+    <circle cx="180" cy="720" r="62" fill="#f7b933"/>
+    <circle cx="1018" cy="720" r="62" fill="#f7b933"/>
+    <g fill="#f7b933">
+      <circle cx="127" cy="242" r="21"/><circle cx="268" cy="136" r="19"/>
+      <circle cx="932" cy="136" r="19"/><circle cx="1073" cy="242" r="21"/>
+      <circle cx="127" cy="658" r="21"/><circle cx="268" cy="764" r="19"/>
+      <circle cx="932" cy="764" r="19"/><circle cx="1073" cy="658" r="21"/>
+    </g>
+  </g>
+
+  <g stroke="#ffffff" stroke-width="12" fill="none" stroke-linecap="round" opacity="0.95">
+    <path d="M600 120 C470 180, 460 330, 600 420 C740 330, 730 180, 600 120Z"/>
+    <path d="M600 150 C500 210, 500 350, 600 430 C700 350, 700 210, 600 150Z"/>
+    <path d="M600 780 C470 720, 460 580, 600 490 C740 580, 730 720, 600 780Z"/>
+    <path d="M150 450 C220 340, 360 330, 460 450 C360 570, 220 560, 150 450Z"/>
+    <path d="M1050 450 C980 340, 840 330, 740 450 C840 570, 980 560, 1050 450Z"/>
+    <path d="M250 250 C330 300, 370 360, 420 450 C370 540, 330 600, 250 650"/>
+    <path d="M950 250 C870 300, 830 360, 780 450 C830 540, 870 600, 950 650"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <g transform="translate(600 450)">
+      <g opacity="0.96">
+        <path d="M0,-220 C70,-200 120,-130 120,-60 C120,10 80,85 0,120 C-80,85 -120,10 -120,-60 C-120,-130 -70,-200 0,-220Z" fill="url(#petalPink)"/>
+        <path d="M0,-220 C70,-195 110,-120 100,-45 C90,30 33,90 0,120 C-33,90 -90,30 -100,-45 C-110,-120 -70,-195 0,-220Z" fill="#ff7be5" opacity="0.3"/>
+      </g>
+      <g transform="rotate(45)"><path d="M0,-230 C70,-210 120,-135 120,-55 C120,15 80,95 0,130 C-80,95 -120,15 -120,-55 C-120,-135 -70,-210 0,-230Z" fill="url(#petalPink)"/></g>
+      <g transform="rotate(90)"><path d="M0,-230 C70,-210 120,-135 120,-55 C120,15 80,95 0,130 C-80,95 -120,15 -120,-55 C-120,-135 -70,-210 0,-230Z" fill="url(#petalPink)"/></g>
+      <g transform="rotate(135)"><path d="M0,-230 C70,-210 120,-135 120,-55 C120,15 80,95 0,130 C-80,95 -120,15 -120,-55 C-120,-135 -70,-210 0,-230Z" fill="url(#petalPink)"/></g>
+      <g transform="rotate(180)"><path d="M0,-230 C70,-210 120,-135 120,-55 C120,15 80,95 0,130 C-80,95 -120,15 -120,-55 C-120,-135 -70,-210 0,-230Z" fill="url(#petalPink)"/></g>
+      <g transform="rotate(225)"><path d="M0,-230 C70,-210 120,-135 120,-55 C120,15 80,95 0,130 C-80,95 -120,15 -120,-55 C-120,-135 -70,-210 0,-230Z" fill="url(#petalPink)"/></g>
+      <g transform="rotate(270)"><path d="M0,-230 C70,-210 120,-135 120,-55 C120,15 80,95 0,130 C-80,95 -120,15 -120,-55 C-120,-135 -70,-210 0,-230Z" fill="url(#petalPink)"/></g>
+      <g transform="rotate(315)"><path d="M0,-230 C70,-210 120,-135 120,-55 C120,15 80,95 0,130 C-80,95 -120,15 -120,-55 C-120,-135 -70,-210 0,-230Z" fill="url(#petalPink)"/></g>
+
+      <circle r="105" fill="#f5d7e9" stroke="#f6f4ef" stroke-width="20"/>
+      <circle r="72" fill="#f9db4f"/>
+      <circle r="52" fill="#f7b52e"/>
+      <circle r="18" fill="#f0c95a"/>
+    </g>
+  </g>
+
+  <g fill="#fff" opacity="0.96">
+    <path d="M600 80 C645 160 690 220 740 240 C695 245 655 300 600 360 C545 300 505 245 460 240 C510 220 555 160 600 80Z"/>
+    <path d="M600 820 C645 740 690 680 740 660 C695 655 655 600 600 540 C545 600 505 655 460 660 C510 680 555 740 600 820Z"/>
+    <path d="M80 450 C160 495 220 545 240 600 C245 555 300 515 360 450 C300 385 245 345 240 300 C220 355 160 405 80 450Z"/>
+    <path d="M1120 450 C1040 495 980 545 960 600 C955 555 900 515 840 450 C900 385 955 345 960 300 C980 355 1040 405 1120 450Z"/>
+  </g>
+
+  <g fill="#faea68" opacity="0.75">
+    <circle cx="200" cy="220" r="18"/>
+    <circle cx="1000" cy="220" r="18"/>
+    <circle cx="200" cy="680" r="18"/>
+    <circle cx="1000" cy="680" r="18"/>
+  </g>
+
+  <g fill="#f9b22e" opacity="0.9">
+    <circle cx="200" cy="220" r="45"/>
+    <circle cx="1000" cy="220" r="45"/>
+    <circle cx="200" cy="680" r="45"/>
+    <circle cx="1000" cy="680" r="45"/>
+  </g>
+
+  <g fill="#f2a41a" opacity="0.85">
+    <circle cx="200" cy="220" r="12"/>
+    <circle cx="1000" cy="220" r="12"/>
+    <circle cx="200" cy="680" r="12"/>
+    <circle cx="1000" cy="680" r="12"/>
+  </g>
+</svg>

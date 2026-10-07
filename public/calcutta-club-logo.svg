@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Calcutta Cultural Club</title>
+  <desc id="desc">A circular ink-drawn logo with a bridge and the words Calcutta Cultural Club.</desc>
+  <rect width="900" height="900" fill="#f7f1e8"/>
+  <g fill="none" stroke="#1d1d1d" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="450" cy="450" r="340" stroke-width="10"/>
+    <path d="M155 420 C235 265 325 198 450 198 C575 198 665 265 745 420" stroke-width="9"/>
+    <path d="M185 420 L185 500 L715 500 L715 420" stroke-width="10"/>
+    <path d="M215 420 L215 495 M255 420 L255 495 M295 420 L295 495 M335 420 L335 495 M375 420 L375 495 M415 420 L415 495 M455 420 L455 495 M495 420 L495 495 M535 420 L535 495 M575 420 L575 495 M615 420 L615 495 M655 420 L655 495 M695 420 L695 495" stroke-width="7"/>
+    <path d="M195 472 L705 472" stroke-width="10"/>
+    <path d="M240 508 L240 560 M330 508 L330 560 M420 508 L420 560 M510 508 L510 560 M600 508 L600 560 M690 508 L690 560" stroke-width="7"/>
+    <path d="M270 370 C322 306 378 276 450 276 C522 276 578 306 630 370" stroke-width="8" fill="none"/>
+    <path d="M168 289 C205 244 235 216 294 192 C286 236 282 272 284 316" stroke-width="8"/>
+    <path d="M733 289 C696 244 666 216 607 192 C615 236 619 272 617 316" stroke-width="8"/>
+    <path d="M430 163 C470 103 518 82 578 78 C567 118 556 151 542 184 C515 177 479 170 430 163Z" stroke-width="8" fill="none"/>
+    <path d="M325 165 C308 125 303 99 322 72 C365 74 394 90 424 135" stroke-width="8" fill="none"/>
+    <path d="M260 408 C286 371 319 352 356 352" stroke-width="8"/>
+    <path d="M640 408 C614 371 581 352 544 352" stroke-width="8"/>
+    <path d="M450 270 C465 332 474 385 450 435 C426 385 435 332 450 270Z" stroke-width="8" fill="none"/>
+    <path d="M290 198 C340 260 392 290 450 290 C508 290 560 260 610 198" stroke-width="9"/>
+  </g>
+
+  <g fill="#1d1d1d" font-family="Georgia, serif" text-anchor="middle">
+    <text x="450" y="475" font-size="128" font-weight="700" letter-spacing="2">CALCUTTA</text>
+    <text x="450" y="570" font-size="74" font-weight="600" letter-spacing="5">CULTURAL CLUB</text>
+  </g>
+</svg>

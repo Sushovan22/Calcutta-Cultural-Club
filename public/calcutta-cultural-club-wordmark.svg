@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
+  <title id="title">Calcutta Cultural Club</title>
+  <desc id="desc">Minimal wordmark with the text Calcutta Cultural Club in a gold serif style.</desc>
+  <defs>
+    <linearGradient id="wordGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8e4a7"/>
+      <stop offset="30%" stop-color="#e7bf68"/>
+      <stop offset="55%" stop-color="#f2d883"/>
+      <stop offset="100%" stop-color="#c98d2a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="420" fill="none"/>
+  <g fill="none" stroke="url(#wordGold)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M125 240 L225 80 L330 240"/>
+    <path d="M160 220 L200 160 L235 220"/>
+    <path d="M700 240 L800 80 L905 240"/>
+    <path d="M735 220 L775 160 L810 220"/>
+  </g>
+  <g font-family="Georgia, serif" fill="url(#wordGold)" text-anchor="middle">
+    <text x="500" y="170" font-size="130" font-weight="700" letter-spacing="2">CALCUTTA</text>
+    <text x="500" y="275" font-size="78" font-weight="600" letter-spacing="7">CULTURAL CLUB</text>
+  </g>
+</svg>
