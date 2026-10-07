@@ -21,6 +21,19 @@ npm i
 npm run dev
 ```
 
+## Deploy to Vercel
+
+Import the GitHub repository into Vercel and use `npm run build` as the build command. The Vercel Nitro preset is configured in `vite.config.ts`; leave the output directory at its default.
+
+Add these variables in the Vercel project's Environment Variables settings for Production and Preview:
+
+- `VITE_SUPABASE_URL`
+- `VITE_SUPABASE_PUBLISHABLE_KEY`
+- `SUPABASE_URL`
+- `SUPABASE_PUBLISHABLE_KEY`
+
+Use the matching Supabase project values for both URL variables and the publishable key variables. Redeploy after saving the variables.
+
 ## Built with
 
 - TanStack Start
